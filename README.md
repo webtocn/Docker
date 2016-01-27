@@ -5,4 +5,4 @@
 这里我们主要翻译Docker官方网站[www.docker.com]    
 
 希望在翻译和交流时尽量使用中文    
-
+logo![image](http://pan.baidu.com/s/1mhkuBbi)
