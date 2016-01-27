@@ -24,25 +24,4 @@
 ###[管理](http://www.docker.com/company/management)　　[新闻](http://www.docker.com/company/news-and-press)　　[联系我们](http://www.docker.com/company/contact)
 #[职业](http://www.docker.com/careers)
 #[开源](http://www.docker.com/open-source)
-
----------
-Why Docker?
-Products
-Partners
-Community
-Company
-Careers
-Open Source
-
-Docs
-Support
-Training
-Tech Blog
-Blog
-Docker Hub
-Get Started
-Careers
-Status
-Security
-Contact Sales
-Legal
+###[贡献](http://www.docker.com/contribute)
