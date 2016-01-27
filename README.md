@@ -1,2 +1,4 @@
 # Docker
-[http://www.docker.com]--翻译Docker官网
+-----------
+在国内访问外国的网站速度很慢而且很多网站不能访问，这里为了方便哪些初学者或英文能力薄弱翻译一些技术网站，希望能给大家带来一些帮助    
+这里我们主要翻译Docker官方网站www.docker.com[www.docker.com]
