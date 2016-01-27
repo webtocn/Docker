@@ -21,6 +21,7 @@
 ###[事件](http://www.docker.com/community/events)　　[寻找组织](http://www.docker.com/community/meetup-groups)　　[分享活动](http://www.docker.com/community/dockercon)　　[基金会](https://forums.docker.com/)　　[社区](http://blog.docker.com/community-content/)
 
 #[公司](http://www.docker.com/company)
+###[管理](http://www.docker.com/company/management)　　[新闻](http://www.docker.com/company/news-and-press)　　[联系我们](http://www.docker.com/company/contact)
 #[职业](http://www.docker.com/careers)
 #[开源](http://www.docker.com/open-source)
 
