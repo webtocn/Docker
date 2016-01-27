@@ -13,6 +13,10 @@
 
 
 #[合作者](http://www.docker.com/partners)
+###[合作项目](http://www.docker.com/partners/partner-programs)　　[亚马逊](http://www.docker.com/aws)　　[IBM](http://www.docker.com/IBM)　　[微软](http://www.docker.com/microsoft)　　[门户](http://www.docker.com/partners/partner-portal)
+
+
+
 #[社区](http://www.docker.com/docker-community)
 #[公司](http://www.docker.com/company)
 #[职业](http://www.docker.com/careers)
